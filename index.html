@@ -14,7 +14,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        {% if post.summary %}<h3>{{ post.summary }}</h3>
+        {% if post.summary %}<h3>{{ post.summary }}</h3>{% endif %}
       </li>
     {% endfor %}
   </ul>
