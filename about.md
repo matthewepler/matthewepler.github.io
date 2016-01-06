@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Homepage with project portfolio can be found at [mepler.com](http://mepler.com). 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+This is a place for project documentation and things that might prove useful to others trying to maketheir way in the world of creative technology.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+A huge thank you to people who have shared their breakthroughs and innovations with the communities they are a part of. I hope this site will offer something in return. 
