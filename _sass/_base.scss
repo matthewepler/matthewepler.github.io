@@ -44,7 +44,10 @@ ul, ol, dl, figure,
  */
 img {
     max-width: 100%;
+	display:block;          // mine
     vertical-align: middle;
+	margin-left: auto;      // mine
+	margin-right: auto;     // mine
 }
 
 
