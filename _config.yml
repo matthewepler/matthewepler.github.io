@@ -10,12 +10,12 @@ title: Sudo Teknologies
 email: matthewepler@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Matthew Epler is a creative technologist whose work spans creative coding,
-  physical computing, and design. This is a place to give back to the communites that
-  offer their experience and knowledge for the benefit of others. 
+  physical computing, and design. http://mepler.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://matthewepler.github.io" # the base hostname & protocol for your site
 twitter_username: matthewepler
 github_username:  matthewepler
+homepage: mepler.com
 
 # Build settings
 markdown: kramdown
