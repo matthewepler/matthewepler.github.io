@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Matthew Epler is a creative technologist whose work spans creative coding,
   physical computing, and design. http://mepler.com.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://matthewepler.github.io" 
-url: "http://localhost:4000" # when running locally
+url: "http://matthewepler.github.io" 
+#url: "http://localhost:4000" # when running locally
 twitter_username: matthewepler
 github_username:  matthewepler
 homepage: mepler.com
