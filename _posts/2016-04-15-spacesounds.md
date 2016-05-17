@@ -198,7 +198,8 @@ While all of those are drying, you can hang your threaded rod, and run speaker c
 
 I used some washers and nuts to secure the 90-degree bracket to the rod first, then mounted the cone assembly with the standoffs, washers, and wingnuts. Then tested the system, and all was well with the world. 
 
-[placeholder for final image]
+![installation view]({{site.url}}/images/spacesounds/spaceApps_user.jpg) 
+
 
 Best part about this is that it's reusable and doesn't require any coding! Hope this helped.
 
