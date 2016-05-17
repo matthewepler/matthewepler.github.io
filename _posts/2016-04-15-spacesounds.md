@@ -6,7 +6,8 @@ categories: "hardware, art, installation, sound"
 summary: "8 channels of sound running on continuous loop in a gallery setting."
 ---
 
-[placeholder for install pic]
+![installation view]({{site.url}}/images/spacesounds/spaceApps_banner.jpg) 
+
 
 ## Summary
 This tutorial will show you how to set up a multi-channel sound installation using Adafruit's Sound FX board + amp. This setup was used at NASA's Space Apps event in NYC in April, 2016. 
