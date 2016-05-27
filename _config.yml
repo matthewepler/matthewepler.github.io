@@ -20,3 +20,5 @@ homepage: mepler.com
 
 # Build settings
 markdown: kramdown
+kramdown: 
+  input: GFM
