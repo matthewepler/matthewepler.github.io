@@ -9,7 +9,7 @@ summary: "Errors I encountered + fixes, in case you're having the same issues wh
 
 
 ## Summary
-I purchased the "React for Beginners" video tutorial series and have found it to be a great resource for learning React. Videos, unfortunately, don't automagically update everytime React updates. So when something changes in React, and you try to do it the way the video shows you to do it, you get an error.
+I purchased the [React for Beginners](https://reactforbeginners.com/) video tutorial series and have found it to be a great resource for learning React. Videos, unfortunately, don't automagically update everytime React updates. So when something changes in React, and you try to do it the way the video shows you to do it, you get an error.
 
 I've put some of the errors and fixes I found below in case anyone else finds them useful. I could be blind, but I didn't see a users forum for the tutorial series - so here's a place to keep notes. If you have one I should add, just email me!
 
